@@ -1,0 +1,11 @@
+{
+    "name": "zhjaaa/composer",
+    "description": "composer learn",
+    "authors": [
+        {
+            "name": "zhjaaa",
+            "email": "185429135@qq.com"
+        }
+    ],
+    "require": {}
+}
